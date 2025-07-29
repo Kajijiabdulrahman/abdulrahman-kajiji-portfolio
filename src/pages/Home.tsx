@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import { Github, Linkedin, Mail, MapPin } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import profilePhoto from '@/assets/profile-photo.jpg';
+const profilePhoto = '/lovable-uploads/8a1b8116-b94c-449a-8378-30f8477fa989.png';
 
 const Home = () => {
   return (
